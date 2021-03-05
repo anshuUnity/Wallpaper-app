@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment2"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/creatorFragment3"
+        android:title="Creator"
+        android:icon="@drawable/ic_create"/>
+
+    <item
+        android:id="@+id/profileFragment3"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_emoji_emotions_24"/>
+
+</menu>

@@ -1,2 +1,2 @@
-# Wallpaper-app
- Wallpaper app using pexel api and mvvm pattern
+# worldofmeter-code
+Android App which contains statistical data of the world
